@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "neko-browser-UWA", "neko-browser-UWA\neko-browser-UWA.csproj", "{AB6D9CB7-74A8-4236-BF12-0F3DDD569BFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB6D9CB7-74A8-4236-BF12-0F3DDD569BFE}.Debug|ARM.ActiveCfg = Debug|ARM
+		{AB6D9CB7-74A8-4236-BF12-0F3DDD569BFE}.Debug|ARM.Build.0 = Debug|ARM
+		{AB6D9CB7-74A8-4236-BF12-0F3DDD569BFE}.Debug|ARM.Deploy.0 = Debug|ARM
+		{AB6D9CB7-74A8-4236-BF12-0F3DDD569BFE}.Debug|x64.ActiveCfg = Debug|x64
+		{AB6D9CB7-74A8-4236-BF12-0F3DDD569BFE}.Debug|x64.Build.0 = Debug|x64
+		{AB6D9CB7-74A8-4236-BF12-0F3DDD569BFE}.Debug|x64.Deploy.0 = Debug|x64
+		{AB6D9CB7-74A8-4236-BF12-0F3DDD569BFE}.Debug|x86.ActiveCfg = Debug|x86
+		{AB6D9CB7-74A8-4236-BF12-0F3DDD569BFE}.Debug|x86.Build.0 = Debug|x86
+		{AB6D9CB7-74A8-4236-BF12-0F3DDD569BFE}.Debug|x86.Deploy.0 = Debug|x86
+		{AB6D9CB7-74A8-4236-BF12-0F3DDD569BFE}.Release|ARM.ActiveCfg = Release|ARM
+		{AB6D9CB7-74A8-4236-BF12-0F3DDD569BFE}.Release|ARM.Build.0 = Release|ARM
+		{AB6D9CB7-74A8-4236-BF12-0F3DDD569BFE}.Release|ARM.Deploy.0 = Release|ARM
+		{AB6D9CB7-74A8-4236-BF12-0F3DDD569BFE}.Release|x64.ActiveCfg = Release|x64
+		{AB6D9CB7-74A8-4236-BF12-0F3DDD569BFE}.Release|x64.Build.0 = Release|x64
+		{AB6D9CB7-74A8-4236-BF12-0F3DDD569BFE}.Release|x64.Deploy.0 = Release|x64
+		{AB6D9CB7-74A8-4236-BF12-0F3DDD569BFE}.Release|x86.ActiveCfg = Release|x86
+		{AB6D9CB7-74A8-4236-BF12-0F3DDD569BFE}.Release|x86.Build.0 = Release|x86
+		{AB6D9CB7-74A8-4236-BF12-0F3DDD569BFE}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA405FC0-F641-4D64-9FA2-EC5FA37E4F48}
+	EndGlobalSection
+EndGlobal

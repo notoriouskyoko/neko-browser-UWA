@@ -1,0 +1,11 @@
+C:\Users\valon\Desktop\neko-browser-UWA\neko-browser-UWA\obj\x64\Debug\neko-browser-UWA.csprojResolveAssemblyReference.cache
+C:\Users\valon\Desktop\neko-browser-UWA\neko-browser-UWA\obj\x64\Debug\App.g.i.cs
+C:\Users\valon\Desktop\neko-browser-UWA\neko-browser-UWA\obj\x64\Debug\App.g.cs
+C:\Users\valon\Desktop\neko-browser-UWA\neko-browser-UWA\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\valon\Desktop\neko-browser-UWA\neko-browser-UWA\obj\x64\Debug\MainPage.g.cs
+C:\Users\valon\Desktop\neko-browser-UWA\neko-browser-UWA\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\valon\Desktop\neko-browser-UWA\neko-browser-UWA\obj\x64\Debug\App.xaml
+C:\Users\valon\Desktop\neko-browser-UWA\neko-browser-UWA\obj\x64\Debug\MainPage.xaml
+C:\Users\valon\Desktop\neko-browser-UWA\neko-browser-UWA\obj\x64\Debug\App.xbf
+C:\Users\valon\Desktop\neko-browser-UWA\neko-browser-UWA\obj\x64\Debug\MainPage.xbf
+C:\Users\valon\Desktop\neko-browser-UWA\neko-browser-UWA\obj\x64\Debug\XamlSaveStateFile.xml
